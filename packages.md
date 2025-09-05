@@ -1,11 +1,14 @@
 
 important packages:
+   
     sudo apt install -y zsh git curl fzf
 
 use zsh!
+    
     curl -sS https://starship.rs/install.sh | sh -s -- -y
 
 autosuggestions ofc:
+    
     git clone https://github.com/zsh-users/zsh-syntax-highlighting ~/.zsh/zsh-syntax-highlighting
     git clone https://github.com/zsh-users/zsh-autosuggestions ~/.zsh/zsh-autosuggestions
 
